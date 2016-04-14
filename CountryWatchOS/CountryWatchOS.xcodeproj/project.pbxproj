@@ -599,6 +599,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CountryWatchOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KenTaps.CountryWatchOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -610,6 +611,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CountryWatchOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = KenTaps.CountryWatchOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -741,6 +743,7 @@
 				25784A981CB86A4F0086940E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25784A991CB86A4F0086940E /* Build configuration list for PBXNativeTarget "CountryWatchOSTests" */ = {
 			isa = XCConfigurationList;
@@ -749,6 +752,7 @@
 				25784A9B1CB86A4F0086940E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25784A9C1CB86A4F0086940E /* Build configuration list for PBXNativeTarget "CountryWatchOSUITests" */ = {
 			isa = XCConfigurationList;
@@ -757,6 +761,7 @@
 				25784A9E1CB86A4F0086940E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25784AC01CB86A5D0086940E /* Build configuration list for PBXNativeTarget "Countries Extension" */ = {
 			isa = XCConfigurationList;
@@ -765,6 +770,7 @@
 				25784AC21CB86A5D0086940E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25784AC41CB86A5D0086940E /* Build configuration list for PBXNativeTarget "Countries" */ = {
 			isa = XCConfigurationList;
@@ -773,6 +779,7 @@
 				25784AC61CB86A5D0086940E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

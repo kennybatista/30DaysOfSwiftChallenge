@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Countries.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CountryWatchOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Notification - Countries.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>25784A6D1CB86A4F0086940E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>25784A811CB86A4F0086940E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>25784A8C1CB86A4F0086940E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>25784AA01CB86A5D0086940E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
